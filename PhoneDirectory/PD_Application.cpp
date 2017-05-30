@@ -92,6 +92,7 @@ void do_remove_entry(Phone_Directory& the_directory) // Exercise 1.8: please com
 	getline(cin, name);
 	// Complete the rest of this function 
 	
+
 }
 
 void do_save(Phone_Directory& the_directory)
