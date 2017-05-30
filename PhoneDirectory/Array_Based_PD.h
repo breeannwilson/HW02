@@ -67,6 +67,7 @@ private:
 			number = the_number;
 		}
 
+		//get and set functions
 		std::string get_name() const {
 			return name;
 		}
